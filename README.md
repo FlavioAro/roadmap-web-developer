@@ -1,4 +1,4 @@
-## :dart: O roadmap para alavancar a sua carreira
+## :dart: Roadmap para alavancar a sua carreira
 
 Abaixo você encontra, de forma visual, os caminhos que você pode tomar e as tecnologias para incorporar na sua stack para se tornar um profissional atualizado e diferenciado em frontend, backend e/ou devops. 
 
