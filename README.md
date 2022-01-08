@@ -18,15 +18,15 @@ https://www.youtube.com/channel/UCwqWw3WUgFYnpPi_Z4OohpQ/videos
 
 ## :small_blue_diamond: Frontend Roadmap
 
-![Frontend Roadmap](./images/frontend.png)
+![Frontend Roadmap]![frontend](https://user-images.githubusercontent.com/35077695/148646981-d853dcbc-545a-40f5-979c-2dcc30ac2be6.png)
 
 ## :small_blue_diamond: Back-end Roadmap
 
-![Back-end Roadmap](./images/backend.png)
+![Back-end Roadmap]![backend](https://user-images.githubusercontent.com/35077695/148646988-18f1577b-93db-4ff0-8887-e413b7b89ff5.png)
 
 ## :small_blue_diamond: DevOps Roadmap
 
-![DevOps Roadmap](./images/devops.png)
+![DevOps Roadmap]![devops](https://user-images.githubusercontent.com/35077695/148646994-6f7e1c95-b1a5-4809-b835-f2eed2b9af19.png)
 
 ## :file_folder: Versões anteriores
 
