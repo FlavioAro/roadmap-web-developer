@@ -27,11 +27,3 @@ https://www.youtube.com/channel/UCwqWw3WUgFYnpPi_Z4OohpQ/videos
 ## :small_blue_diamond: DevOps Roadmap
 
 ![DevOps Roadmap]![devops](https://user-images.githubusercontent.com/35077695/148646994-6f7e1c95-b1a5-4809-b835-f2eed2b9af19.png)
-
-## :file_folder: Versões anteriores
-
-Acesse as versões anteriores [aqui](./archive/archive.md).
-
-## :pushpin: Licença
-
-[![Licença: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/) <br>
