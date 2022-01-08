@@ -1,10 +1,3 @@
-<p align="center">
-  <a href="https://github.com/FlavioAro/web-developer-roadmap.git">
-    <img src="https://i.imgur.com/Uid1O3A.png" alt="Roadmap do Desenvolvedor Web 2021" width="96" height="96">
-  </a>
-  <h1 align="center">Roadmap do Desenvolvedor Web 2021</h1>
-</p>
-
 ## :dart: O roadmap para alavancar a sua carreira
 
 Abaixo você encontra, de forma visual, os caminhos que você pode tomar e as tecnologias para incorporar na sua stack para se tornar um profissional atualizado e diferenciado em frontend, backend e/ou devops. 
