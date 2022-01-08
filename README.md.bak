@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/FlavioAro/web-developer-roadmap.git">
+  <a href="https://github.com/hideraldus13/roadmap-do-desenvolvedor-web">
     <img src="https://i.imgur.com/Uid1O3A.png" alt="Roadmap do Desenvolvedor Web 2021" width="96" height="96">
   </a>
   <h1 align="center">Roadmap do Desenvolvedor Web 2021</h1>
@@ -10,7 +10,8 @@
 Abaixo você encontra, de forma visual, os caminhos que você pode tomar e as tecnologias para incorporar na sua stack para se tornar um profissional atualizado e diferenciado em frontend, backend e/ou devops. 
 
 <sub>Diga "Oi" <br>
-https://www.youtube.com/channel/UCwqWw3WUgFYnpPi_Z4OohpQ/videos
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hideraldoluis/) 
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/hideraldojunior/) 
 </sub>
 
 ## :warning: Nossa proposta
@@ -35,6 +36,19 @@ https://www.youtube.com/channel/UCwqWw3WUgFYnpPi_Z4OohpQ/videos
 
 ![DevOps Roadmap](./images/devops.png)
 
+## :vertical_traffic_light: Fique ligado
+
+Se você acredita que os roadmaps podem ser incrementados, por favor abra um <i>Pull Request</i> com a atualização e submeta as <i>Issues</i> para discussão. De qualquer forma, continuarei atualizando os roadmaps sempre que necessário, então clique em watch/star e fique ligado neste repositório. 
+
+## :punch: Colabore
+
+> Dê uma olhada no [colaborando.md](./colaborando.md) para saber como atualizar qualquer um dos roadmaps
+
+- Abra <i>Pull Requests</i> com atualizações
+- Discuta ideias em <i>Issues</i>
+- Compartilhe o repositório com a sua comunidade
+- Mande feedbacks no [LinkedIn](https://linkedin.com/in/hideraldoluis)
+
 ## :file_folder: Versões anteriores
 
 Acesse as versões anteriores [aqui](./archive/archive.md).
@@ -42,3 +56,6 @@ Acesse as versões anteriores [aqui](./archive/archive.md).
 ## :pushpin: Licença
 
 [![Licença: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/) <br>
+Produção original disponível em [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) <br>
+Traduzido e adaptado por [hideraldojunior](https://instagram.com/hideraldojunior) <br>
+Revisado por <b><i>VÁ EM ISSUES, ME AJUDE A REVISAR ESTE ROADMAP E SEU NOME APARECERÁ AQUI!</i></b> :wink:
