@@ -1,4 +1,4 @@
-Se inscreva no Meu Canal do Youtube:
+Se inscreva no Meu Canal do Youtube:<br>
 https://www.youtube.com/NerdAutodidata
 
 ## :dart: Roadmap para alavancar a sua carreira
