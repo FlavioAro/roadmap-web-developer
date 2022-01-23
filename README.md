@@ -1,9 +1,12 @@
+Se inscreva no Meu Canal do Youtube:
+https://www.youtube.com/NerdAutodidata
+
 ## :dart: Roadmap para alavancar a sua carreira
 
 Abaixo você encontra, de forma visual, os caminhos que você pode tomar e as tecnologias para incorporar na sua stack para se tornar um profissional atualizado e diferenciado em frontend, backend e/ou devops. 
 
 <sub>Diga "Oi" <br>
-https://www.youtube.com/channel/UCwqWw3WUgFYnpPi_Z4OohpQ/videos
+https://www.youtube.com/NerdAutodidata/community
 </sub>
 
 ## :warning: Nossa proposta
